@@ -1,7 +1,7 @@
 # Bonita Camp
 
-Bonita Camp is an introduction training to Bonita Community Edition.  
-The main objective of this training is to familiarize yourself with concepts and key features of Bonita.  
+Bonita Camp is an introductory training to Bonita Community Edition.  
+The main objective of this training is to familiarize yourself with the concepts and key features of Bonita.  
 Bonita Camp include both theoretical knowledge and hands on with exercises that let you build your first Bonita application.
 Bonita Camp comes with:
 
