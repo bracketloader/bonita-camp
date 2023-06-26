@@ -1,12 +1,12 @@
 # Bonita Camp
 
-Bonita Camp is an introduction training to Bonita Community Edition.  
-The main objective of this training is to familiarize yourself with concepts and key features of Bonita.  
-Bonita Camp include both theoretical knowledge and hands on with exercises that let you build your first Bonita application.
+Bonita Camp is an introductory training to Bonita Community Edition.  
+The main objective of this training is to familiarize yourself with the concepts and key features of Bonita.  
+Bonita Camp includes both theoretical knowledge and hands-on exercises that let you build your first Bonita application.
 Bonita Camp comes with:
 
 - A set of slides commented in a [series of videos](https://www.youtube.com/playlist?list=PLvvoQatxaHOMHRiP7hFayNXTJNdxIEiYp) (also available in [French](https://www.youtube.com/playlist?list=PLvvoQatxaHOPSATzZe-zPh-LrSNGfpQEf) and [Spanish](https://www.youtube.com/playlist?list=PLvvoQatxaHOOgWEMHZjk5rjc9qsCnh7bi)) or during live sessions
-- A set of exercises described on a [dedicated web site](http://bonitasoft-community.github.io/bonita-camp/)
+- A set of exercises described on a [dedicated website](http://bonitasoft-community.github.io/bonita-camp/)
 - [Exercises solutions](https://github.com/Bonitasoft-Community/bonita-camp/releases/latest)
 
 If you need assistance you can:
